@@ -1,0 +1,12 @@
+{
+    "xml.fileAssociations": [
+        {
+            "systemId": "/Users/shabeer/projects/testing/mycalender/schema/tns.xsd",
+            "pattern": "**/**/*.xml"
+        }
+    ],
+    "files.exclude": {
+        "schema": true
+    },
+    "git.ignoreLimitWarning": true
+}
